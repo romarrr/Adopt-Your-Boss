@@ -1,4 +1,4 @@
-# adoptyourboss
+# Adopt-Your-Boss
 
 Création d'un site reliant les recruteurs et les chercheurs d'emploi.
 
