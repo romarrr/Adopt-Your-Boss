@@ -10,7 +10,7 @@ Rendez-vous sur l'adresse localhost:3000/accueil pour voir le projet.
 
 # Les profils
 
-Le site disposant de 3 profils différents (admin, recruteur, candidat). Vous devez renseigner les identifiants et mots de passe correspondant au profil souhaité.
+Le site dispose de 3 profils différents (admin, recruteur, candidat). Vous devez renseigner les identifiants et mots de passe correspondant au profil souhaité.
 
 Pour accéder à un profil admin -> Identifiant : admin@admin.com - Mot de passe : admin
 
